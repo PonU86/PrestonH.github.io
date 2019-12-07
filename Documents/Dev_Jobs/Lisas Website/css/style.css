@@ -1,0 +1,58 @@
+/* style.css*/
+
+
+.header {
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+
+}
+
+.nav {
+  background-color: inherit;
+  height: 80px;
+  width: 100%;
+  text-align: right;
+}
+
+.nav ul {
+  height: 80px;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.nav ul li {
+  color: black;
+  display: inline-block;
+  height: 80px;
+  line-height: 80px;
+  list-style: none;
+  padding: 15px;
+  
+}
+
+.name {
+  color: black;
+  text-align: left;
+  padding: 15px;
+}
+
+.name img {
+  size: 50px;
+}
+
+.info {
+  color: black;
+  text-align: left;
+  font-family: arial;
+  padding: 20px;
+}
+
+.image {
+  padding: 15px;
+}
+
+.background-img {
+
+}
